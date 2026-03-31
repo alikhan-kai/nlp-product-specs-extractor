@@ -1,0 +1,6 @@
+pandas              # For working with dataframes and data manipulation
+openpyxl            # For saving the final output into an Excel file (.xlsx)
+python-docx         # For extracting text and tables from Word documents (.docx)
+pdfplumber          # For accurate and advanced table extraction from PDF files
+fuzzywuzzy          # For intelligent column mapping (NLP Task 1 - fuzzy string matching)
+python-Levenshtein  # Speeds up fuzzywuzzy operations (calculates Levenshtein distance)
